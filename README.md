@@ -25,6 +25,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/angularjs.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/bitbucket.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/gitlab.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/jirasoftware.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/slack.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mattermost.svg" />][github]
 <br/>
 <br/>
 
