@@ -1,16 +1,16 @@
 ### Hi there, I'm Shovra
-+ I’m currently exploring IIoT Security as part of my master thesis
-+ Besides thesis I am working on Production Scheduling and Optimization at Fraunhofer IWU
++ I’m currently exploring IIoT Security as a part of my master thesis
++ Besides thesis, I am working on Production Scheduling and Optimization at Fraunhofer IWU
 + Also, I am teaching Software Service Engineering and Security of Distributed Software at TU Chemnitz
 + I’m looking to collaborate on open source projects
 
-### Connect with me:
+### Online presence:
 [<img align="left" alt="shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shovra Das | ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
 [<img align="left" alt="Shovra Das | ResearchGate" width="22px" src="https://simpleicons.org/icons/researchgate.svg" />][rg]
 [<img align="left" alt="Shovra Das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shovra Das | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="Shovra Das | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shovra Das | ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
 [<img align="left" alt="Shovra Das | HackerRank" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 <br/>
 
