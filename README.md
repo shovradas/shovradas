@@ -1,6 +1,5 @@
 ### Hi there, I'm Shovra
 + I’m currently exploring IIoT Security as a part of my master thesis
-+ Besides thesis, I am working on Production Scheduling and Optimization at Fraunhofer IWU
 + Also, I am teaching Software Service Engineering and Security of Distributed Software at TU Chemnitz
 + I’m looking to collaborate on open source projects
 
@@ -16,8 +15,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/python.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/java.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
