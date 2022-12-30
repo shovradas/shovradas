@@ -4,16 +4,20 @@
 + I’m looking to collaborate on open source projects
 
 ### Repositories
+---
 Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview of my repositories.
+
+---
 
 ### Online presence:
 [<img align="left" alt="shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shovra Das | HackerRank" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Shovra Das | ResearchGate" width="22px" src="https://simpleicons.org/icons/researchgate.svg" />][rg]
+[<img align="left" alt="Shovra Das | ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
 [<img align="left" alt="Shovra Das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shovra Das | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="Shovra Das | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shovra Das | ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
-[<img align="left" alt="Shovra Das | HackerRank" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
+
 <br/>
 
 ### Languages and Tools:
@@ -30,10 +34,11 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/jirasoftware.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/slack.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mattermost.svg" />][github]
+
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovradas&layout=compact&hide_border=true)](https://github.com/shovradas/shovradas.github.io)![Shovra's github stats](https://github-readme-stats.vercel.app/api?username=shovradas&show_icons=true&count_private=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovradas&layout=compact&hide_border=true)](https://shovradas.github.io)![Shovra's github stats](https://github-readme-stats.vercel.app/api?username=shovradas&show_icons=true&count_private=true&hide_border=true)
 
 
 <!-- Definitions -->
