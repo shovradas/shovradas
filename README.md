@@ -4,10 +4,8 @@
 + I’m looking to collaborate on open source projects
 
 ### Repositories
----
 Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview of my repositories.
 
----
 
 ### Online presence:
 [<img align="left" alt="shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -23,17 +21,16 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview
 ### Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/python.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/angularjs.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/bitbucket.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/gitlab.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/jirasoftware.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/slack.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mattermost.svg" />][github]
 
 <br/>
 <br/>
