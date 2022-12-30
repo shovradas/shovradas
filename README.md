@@ -35,7 +35,7 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovradas&layout=compact&hide_border=true)](https://shovradas.github.io)![Shovra's github stats](https://github-readme-stats.vercel.app/api?username=shovradas&show_icons=true&count_private=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovradas&layout=compact&hide_border=true&hide=html,css)](https://shovradas.github.io)![Shovra's github stats](https://github-readme-stats.vercel.app/api?username=shovradas&show_icons=true&count_private=true&hide_border=true)
 
 
 <!-- Definitions -->
