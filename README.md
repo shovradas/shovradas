@@ -8,7 +8,7 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview
 
 
 ### Online presence:
-[<img align="left" alt="shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shovra Das | HackerRank" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Shovra Das | ResearchGate" width="22px" src="https://simpleicons.org/icons/researchgate.svg" />][rg]
 [<img align="left" alt="Shovra Das | ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
@@ -39,7 +39,7 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview
 
 
 <!-- Definitions -->
-[website]: https://shovradas.com
+[website]: https://www.shovradas.com
 [hackerrank]: https://www.hackerrank.com/shovradas
 [twitter]: https://twitter.com/shovradas
 [linkedin]: https://linkedin.com/in/shovradas
