@@ -19,10 +19,10 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an organize
 <br/>
 
 ### Languages and Tools:
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/python.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/python.svg" />][portfolio_python]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][portfolio_js]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][portfolio_csharp]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][portfolio_java]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/angularjs.svg" />][github]
@@ -47,7 +47,10 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an organize
 [orcid]: https://orcid.org/0000-0002-8505-9014
 [rg]: https://www.researchgate.net/profile/Shovra_Das
 [github]: https://shovradas.github.io
-
+[portfolio_python]: https://shovradas.github.io/index#python
+[portfolio_js]: https://shovradas.github.io/index#javascript
+[portfolio_csharp]: https://shovradas.github.io/index#c
+[portfolio_java]: https://shovradas.github.io/index#java
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
