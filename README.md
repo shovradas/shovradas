@@ -4,7 +4,7 @@
 + I’m looking to collaborate on open source projects
 
 ### Repositories
-Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview of my repositories.
+Please visit [shovradas.github.io](https://shovradas.github.io/) for an organized overview of my repositories.
 
 
 ### Online presence:
