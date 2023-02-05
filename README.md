@@ -39,7 +39,7 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an overview
 
 
 <!-- Definitions -->
-[website]: https://www.shovradas.com
+[website]: http://www.shovradas.com
 [hackerrank]: https://www.hackerrank.com/shovradas
 [twitter]: https://twitter.com/shovradas
 [linkedin]: https://linkedin.com/in/shovradas
