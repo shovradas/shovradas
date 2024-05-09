@@ -1,7 +1,6 @@
 ### Hi there, I'm Shovra
-+ I’m currently exploring IIoT Security as a part of my master thesis
-+ Also, I am teaching Software Service Engineering and Security of Distributed Software at TU Chemnitz
-+ I’m looking to collaborate on open source projects
++ I am a Software Developer
++ I would be happy to contribute on open source projects
 
 ### Repositories
 Please visit [shovradas.github.io](https://shovradas.github.io/) for an organized overview of my repositories.
@@ -19,10 +18,10 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an organize
 <br/>
 
 ### Languages and Tools:
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][portfolio_java]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/python.svg" />][portfolio_python]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][portfolio_js]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][portfolio_csharp]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][portfolio_java]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/angularjs.svg" />][github]
