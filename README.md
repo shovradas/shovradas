@@ -7,26 +7,26 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an organize
 
 
 ### Online Presence:
-[<img style="filter: brightness(0) invert(1);" align="left" alt="www.shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="Shovra Das | HackerRank" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="Shovra Das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="Shovra Das | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="www.shovradas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shovra Das | HackerRank" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Shovra Das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shovra Das | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 
 <br/>
 
 ### Languages and Tools:
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][portfolio_java]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/python.svg" />][portfolio_python]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][portfolio_js]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/sharp.svg" />][portfolio_csharp]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/angular.svg" />][github]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img style="filter: brightness(0) invert(1);" style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/bitbucket.svg" />][github]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/gitlab.svg" />][github]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/jirasoftware.svg" />][github]
-[<img style="filter: brightness(0) invert(1);" align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/slack.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][portfolio_java]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/python.svg" />][portfolio_python]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][portfolio_js]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/sharp.svg" />][portfolio_csharp]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/angular.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/bitbucket.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/gitlab.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/jirasoftware.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/slack.svg" />][github]
 
 
 <!-- Definitions -->
