@@ -7,9 +7,9 @@ Please visit [shovradas.github.io](https://shovradas.github.io/) for an organize
 
 
 ### Online Presence:
-[<img align="left" alt="www.shovradas.com" width="22px" src="hhttps://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/website.svg" />][website]
+[<img align="left" alt="www.shovradas.com" width="22px" src="https://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/website.svg" />][website]
 [<img align="left" alt="Shovra Das | HackerRank" width="22px" src="https://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Shovra Das | LinkedIn" width="22px" src="hhttps://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shovra Das | LinkedIn" width="22px" src="https://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shovra Das | Xing" width="22px" src="https://raw.githubusercontent.com/shovradas/shovradas/master/assets/icons/xing.svg" />][xing]
 
 <br/>
